@@ -104,12 +104,8 @@ nav:hover .line{
   transition: all 1s ease-in-out;
 }
 
-.btn:hover{
-  transform: scale(1.03);
-  box-shadow: 0 4px 8px 0 rgba(186, 12, 197, 0.2), 0 6px 20px 0 rgba(186, 12, 197, 0.19);
-}
 .hero-container>.btn:hover{
-  transform: scale(1.03);
+  transform: scale(1.01);
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 .hero-container>.btn:active{
